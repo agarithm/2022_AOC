@@ -22,7 +22,7 @@ class file:
 class dir:
     path: str
     dirs: []
-    files: []
+    files: {}
     size: int = 0
 
 root = dir(path="/", dirs=[], files={})
