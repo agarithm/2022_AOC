@@ -126,7 +126,7 @@ def join(head,tail):
 ####################################################################################
 ## SOLVER
 
-knotCount = 2
+knotCount = 10
 knots: [Pos] = []
 tracks = []
 
