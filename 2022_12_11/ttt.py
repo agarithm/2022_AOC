@@ -207,7 +207,8 @@ for monkey in monkeys:
     pp(monkey.false)
     lcm *= monkey.denom
 
-
+# LCM = Lowest Common Multiple
+# Thanks to https://github.com/mattagar6 for this tip
 
 for round in range(0,10000):
     for monkey in monkeys:
